@@ -1,0 +1,66 @@
+html {
+    height: 50%;
+    width: 50%;
+    
+}
+body {
+    background-color: #111111;
+    min-height: 200%;
+    font-family: Arial, sans-serif;
+    
+}
+#titulo{
+    position: relative;
+    left: 82%;
+    top: 10px;
+    font-size: 40px;
+
+}
+
+#hr{
+    width: 1890px;
+    left: 20px;
+}
+
+#titulo2{
+    position: relative;
+    left: 93%;
+    top: 10px;
+}
+
+#titulo3{
+    position: relative;
+    left: 93%;
+    top: 10px;
+    font-size: 30px;
+}
+
+#titulo4{
+    position: relative;
+    left: 85%;
+    top: 10px;
+    font-size: 30px;
+}
+#titulo5{
+    position: relative;
+    left: 93%;
+    top: 10px;
+    font-size: 30px;
+}
+    
+
+#div{
+    font-size: 18px;
+}
+
+#Formação{
+width: 40pc;
+}
+
+#Objetivo{
+    width: 40pc;
+}
+
+#voltar{
+
+}

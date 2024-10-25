@@ -1,0 +1,13 @@
+#titulo {
+    position: relative;
+    top: auto;
+    color: white;
+    font-size: 50px;
+}
+
+
+html {
+    margin: 0;
+    height: 100%;
+  }
+  

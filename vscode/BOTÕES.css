@@ -1,0 +1,132 @@
+.botão1 {
+  
+    border: none;
+  
+    padding: 12px 10px;
+    text-align: center;
+    text-decoration: none;
+   
+    font-size: 20px;
+  background-color:  #111111;
+    cursor: pointer;
+    position: absolute;
+    top: 290px;
+    left: 25px;
+    
+  }
+  .botão2 {
+  
+    border: none;
+  
+    padding: 12px 10px;
+    text-align: center;
+    text-decoration: none;
+   
+    font-size: 20px;
+  background-color:  #111111;;
+    cursor: pointer;
+    position: absolute;
+    top: 290px;
+    left: 130px;
+  }
+  .botão3 {
+  
+    border: none;
+  
+    padding: 12px 10px;
+    text-align: center;
+    text-decoration: none;
+   
+    font-size: 20px;
+  background-color:  #111111;;
+    cursor: pointer;
+    position: absolute;
+    top: 290px;
+    right: 130px;
+  }
+
+  .botão4 {
+  
+    border: none;
+  
+    padding: 12px 10px;
+    text-align: center;
+    text-decoration: none;
+   
+    font-size: 20px;
+  background-color:  #111111;;
+    cursor: pointer;
+    position: absolute;
+    top: 290px;
+    left: 250px;
+  }
+  .botão5 {
+  
+    border: none;
+  
+    padding: 12px 10px;
+    text-align: center;
+    text-decoration: none;
+   
+    font-size: 20px;
+  background-color:  #111111;;
+    cursor: pointer;
+    position: absolute;
+    top: 290px;
+    right: 250px;
+  }
+  .botão6 {
+  
+    border: none;
+  
+    padding: 12px 10px;
+    text-align: center;
+    text-decoration: none;
+    width: 20pc;
+    font-size: 20px;
+  background-color:  #111111;;
+    cursor: pointer;
+    position: absolute;
+    top: 350px;
+    right: -8pc;
+    
+  }
+  .BOTÕES {
+    position:absolute;
+    width: 60px;
+    list-style: none;
+    top: 20pc;
+  }
+      /* MONITORES COM 100% */
+
+    @media screen and (min-width: 1600px) {
+      .BOTÕES {
+        zoom: 1.3;
+      }
+    }
+    
+    /* MONITORES COM 125%*/
+    @media screen and (min-width: 1200px) and (max-width: 1600px) {
+      .BOTÕES {
+        zoom: 1;
+      }
+    }
+    
+    
+      
+  
+      /* outra tela 1600x900 */
+
+    @media screen and (min-width: 900px) and (max-width: 1600px) {
+      .BOTÕES {
+        zoom: 1.04;
+      }
+    }
+  
+  .botão_curriculo{
+    color: white;
+    background-color: #111111;
+    border: none;
+    font-size: 30px;
+
+  }
